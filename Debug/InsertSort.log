@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Duc\source\repos\InsertSort\InsertSort\Source.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Duc\source\repos\InsertSort\InsertSort\Source.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+  InsertSort.vcxproj -> C:\Users\Duc\source\repos\InsertSort\Debug\InsertSort.exe
